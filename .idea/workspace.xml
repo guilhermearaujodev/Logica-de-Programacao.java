@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1c3bb5-0bc2-4425-927c-0f4e389ec320" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exemplo_2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../logica-de-programacao-py/Desvios Condicionais/exemplos_saida.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project-Java/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project-Java/.idea/misc.xml" beforeDir="false" />
@@ -13,9 +12,6 @@
       <change beforePath="$PROJECT_DIR$/../Project-Java/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project-Java/Project-Java.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project-Java/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logica-de-programacao-java/exemplos_saida.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logica-de-programacao-java/exemplos_saida.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exemplos_Saida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exemplos_Saida.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

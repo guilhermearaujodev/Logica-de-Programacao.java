@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// DESVIO SIMPLES
 // Exemplo 1
 // Dada uma venda, calcular e exibir o desconto de 10% caso a venda seja acima de 300 reais.
 public class exemplos_saida {
