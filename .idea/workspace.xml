@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1c3bb5-0bc2-4425-927c-0f4e389ec320" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/logica-de-programacao-java/exemplo_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemplo_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desvios Concicionais/Desvios Concicionais.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lacos de Repeticao/Lacos de Repeticao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desvios Concicionais/exemplo_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desvios Concicionais/exemplo_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desvios Concicionais/exemplo_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desvios Concicionais/exemplo_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desvios Concicionais/exemplo_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desvios Concicionais/exemplo_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplo_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplo_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplo_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplo_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplo_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplos_saida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +41,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2c2BdtVuwPJ6WhUCREpzf6roHgm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,11 +54,23 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "C:/Users/guilherme.araujo/Desktop/1/Logica-de-Programacao.java",
+    "onboarding.tips.debug.path": "C:/Users/guilherme.araujo/Desktop/1/Logica-de-Programacao.java/Desvios Concicionais/src/exemplo_1.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guilherme.araujo\Desktop\1\Logica-de-Programacao.java\Desvios Concicionais\src" />
+      <recent name="C:\Users\guilherme.araujo\Desktop\1\Logica-de-Programacao.java\Desvios Concicionais" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,5 +92,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Desvios Concicionais/src/exemplo_6.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Desvios Concicionais/src/exemplo_1.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desvios Concicionais/Desvios Concicionais.iml" filepath="$PROJECT_DIR$/Desvios Concicionais/Desvios Concicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lacos de Repeticao/Lacos de Repeticao.iml" filepath="$PROJECT_DIR$/Lacos de Repeticao/Lacos de Repeticao.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica-de-programacao-java.iml" filepath="$PROJECT_DIR$/logica-de-programacao-java.iml" />
     </modules>
   </component>
