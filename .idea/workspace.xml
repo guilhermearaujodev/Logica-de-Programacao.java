@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1c3bb5-0bc2-4425-927c-0f4e389ec320" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desvios Concicionais/Desvios Concicionais.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lacos de Repeticao/Lacos de Repeticao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desvios Concicionais/exemplo_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desvios Concicionais/exemplo_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desvios Concicionais/exemplo_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desvios Concicionais/exemplo_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desvios Concicionais/exemplo_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desvios Concicionais/exemplo_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lacos de Repeticao/src/exemplo_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exemplo_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exemplo_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exemplo_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exemplo_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exemplo_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exemplos_saida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
