@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1c3bb5-0bc2-4425-927c-0f4e389ec320" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lacos de Repeticao/src/exemplo_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcoes, Procedimentos, Vetores e Matrizes/src/exemplo_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-de-programacao-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/logica-de-programacao-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logica-de-programacao-java/exemplo_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logica-de-programacao-java/exemplo_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logica-de-programacao-java/exemplo_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logica-de-programacao-java/exemplo_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logica-de-programacao-java/exemplo_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logica-de-programacao-java/exemplos_saida.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,25 +42,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/guilherme.araujo/Desktop/1/Logica-de-Programacao.java&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/guilherme.araujo/Desktop/1/Logica-de-Programacao.java/Desvios Concicionais/src/exemplo_1.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/guilherme.araujo/Desktop/1/Logica-de-Programacao.java/Funcoes, Procedimentos, Vetores e Matrizes",
+    "onboarding.tips.debug.path": "C:/Users/guilherme.araujo/Desktop/1/Logica-de-Programacao.java/Desvios Concicionais/src/exemplo_1.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "terminal"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT",
+      "JAVA"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guilherme.araujo\Desktop\1\Logica-de-Programacao.java\Funcoes, Procedimentos, Vetores e Matrizes" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\guilherme.araujo\Desktop\1\Logica-de-Programacao.java\Desvios Concicionais\src" />
       <recent name="C:\Users\guilherme.araujo\Desktop\1\Logica-de-Programacao.java\Desvios Concicionais" />
+      <recent name="C:\Users\guilherme.araujo\Desktop\1\Logica-de-Programacao.java\Desvios Concicionais\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
