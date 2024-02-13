@@ -9,7 +9,7 @@ public class exemplo_5 {
 
         int num, cont, maior;
 
-        System.out.println("Digite 5 números: ");
+        System.out.println("Digite 5 números para saber qual é o maior número: ");
         num = entrada.nextInt();
         maior = num;
         for(cont = 1; cont <= 4; cont++)

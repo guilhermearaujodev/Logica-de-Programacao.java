@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 //Laço Faça-enquanto
 //Somar números digitados pelo usuário até que ele digite um número negativo.
 //(O número negativo não deve fazer parte da soma)

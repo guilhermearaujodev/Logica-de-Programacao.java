@@ -9,6 +9,7 @@ public class exemplo_1 {
         
         System.out.println("Digite o valor de venda: ");
         venda = entrada.nextDouble();
+
         if (venda > 300) {
             desconto = venda * 10 / 100;
             venda = venda - desconto;

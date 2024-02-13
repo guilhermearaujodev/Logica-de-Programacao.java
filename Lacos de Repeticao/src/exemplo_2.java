@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 //Laço Enquanto-faça
 //Fazer um algoritmo que leia e some diversos números dados pelo usuário.
 // Quando o usuário digitar 0, finaliza o algoritimo. No final, exibe a soma resultante.

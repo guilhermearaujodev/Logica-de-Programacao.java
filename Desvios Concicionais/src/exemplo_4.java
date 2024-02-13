@@ -1,12 +1,12 @@
 import java.util.Scanner;
-
 //Dado um número pelo usuário, exibir o dia da semana correspondente.
 public class exemplo_4 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
+
         int dia;
 
-        System.out.println("Digite um número: ");
+        System.out.println("Digite um número de 1 à 7 para saber o dia da semana!");
         dia = entrada.nextInt();
 
         switch(dia)

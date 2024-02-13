@@ -1,9 +1,7 @@
+import java.util.Scanner;
 //DESVIO COMPOSTO
 //Uma empresa dará aumento para os seus funcionários.
 //Caso ele trabalhe menos de três anos na empresa, ganhará 5% de aumento, caso contrário 10%.
-
-import java.util.Scanner;
-
 public class exemplo_2 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);

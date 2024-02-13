@@ -3,6 +3,7 @@ public class exemplo_3 {
     public static void saudacao2(String usuario, int hora)
     {
         String msg;
+
         if (hora < 12) {
             msg = "Bom dia!";
         }

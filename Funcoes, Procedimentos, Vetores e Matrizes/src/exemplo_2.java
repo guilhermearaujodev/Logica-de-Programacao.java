@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 //Saudações com parâmetros de acordo com o horário do dia.
 public class exemplo_2 {
    public static void saudacao(int hora)
@@ -16,8 +15,6 @@ public class exemplo_2 {
        System.out.println(msg + ", Seja bem vindo!");
    }
     public static void main(String[] args) {
-        Scanner entrada = new Scanner(System.in);
-
         saudacao(20);
     }
 }

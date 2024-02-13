@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 //Laço Pré-condicional
 //Solicitar ao usuário que digite S para sim ou N para não obrigatoriamente.
 //Se digitar uma letra que não for S ou N, realizar a repetição.

@@ -1,9 +1,8 @@
 import java.util.Scanner;
-
 //CALCULADORA – ESCOLHA
 // Dados dois números inteiros e uma operação aritmética desejada calcule a resposta adequada:
-// Utilize os símbolos a seguir para ler qual a operação escolhida:
-// + soma   -subtração  * multiplicação  / divisão
+// Utilize os símbolos a seguir, para ler qual é a operação escolhida:
+// + soma   - subtração  * multiplicação  / divisão
 // esses conjuntos podem conter outros testes de seleção, que por sua vez, também podem conter outros e assim por diante.
 public class exemplo_6 {
     public static void main(String[] args) {
