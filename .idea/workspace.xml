@@ -5,29 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1c3bb5-0bc2-4425-927c-0f4e389ec320" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Funcoes, Procedimentos, Vetores e Matrizes/src/exemplo_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desvios Concicionais/src/exemplo_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lacos de Repeticao/src/exemplo_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lacos de Repeticao/src/exemplo_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lacos de Repeticao/src/exemplo_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lacos de Repeticao/src/exemplo_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lacos de Repeticao/src/exemplo_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lacos de Repeticao/src/exemplo_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project-Java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project-Java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project-Java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project-Java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project-Java/Project-Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project-Java/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logica-de-programacao-java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logica-de-programacao-java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logica-de-programacao-java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logica-de-programacao-java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logica-de-programacao-java/logica-de-programacao-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logica-de-programacao-java/out/production/logica-de-programacao-java/exemplos_saida.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logica-de-programacao-java/src/Exemplos_Saida.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +31,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2c2BdtVuwPJ6WhUCREpzf6roHgm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,7 +45,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Guilherme/Desktop/Study/Alura/Logica-de-Programacao.java",
+    "last_opened_file_path": "C:/Users/guilherme.araujo/Desktop/Stu/Logica-de-Programacao.java",
     "onboarding.tips.debug.path": "C:/Users/guilherme.araujo/Desktop/1/Logica-de-Programacao.java/Desvios Concicionais/src/exemplo_1.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
