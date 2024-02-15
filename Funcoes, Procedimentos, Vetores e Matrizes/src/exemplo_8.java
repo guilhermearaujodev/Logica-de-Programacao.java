@@ -28,6 +28,6 @@ public class exemplo_8 {
         {
             soma = soma + vetor[i];
         }
-        System.out.println("\nSoma dos elemtnso = " + soma);
+        System.out.println("\nSoma dos elementos = " + soma);
     }
 }
